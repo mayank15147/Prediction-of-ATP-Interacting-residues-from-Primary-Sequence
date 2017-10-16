@@ -1,0 +1,1 @@
+# Prediction-of-ATP-Interacting-residues-from-Primary-Sequence
